@@ -1,0 +1,39 @@
+
+.header {
+    text-align: center;
+}
+
+.input_area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    margin: 5px;
+}
+
+button {
+    margin: 5px;
+    padding: 5px;
+
+}
+
+#fahr {
+    border: 2px solid;
+    max-width: fit-content;
+    min-width: 40px;
+    min-height: 20px;
+}
+
+#cel {
+    border: 2px solid;
+    max-width: fit-content;
+    min-width: 40px;
+    min-height: 20px;
+}
+
+span {
+    margin-left: 5px;
+    margin-right: 5px;
+}
